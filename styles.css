@@ -37,7 +37,7 @@ body{
 }
 
 q{
-    max-width: 50%;
+    width: 50%;
     display: inline-block;
     font-size: 160%;
     background-color: lightgray;
@@ -73,6 +73,10 @@ a:hover{
 }
 a:visited{
     background-color: crimson;
+}
+
+.marginForLink{
+    margin-right: 50px;
 }
 
 .modifImg{
